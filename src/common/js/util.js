@@ -1,0 +1,1 @@
+export let toString = Object.prototype.toString.call()
